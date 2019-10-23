@@ -1,1 +1,0 @@
-# frija-dev
