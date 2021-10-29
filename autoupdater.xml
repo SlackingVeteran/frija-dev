@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.4.4.0</version>
-    <url>https://github.com/wssyncmldm/frija-dev/releases/download/v1.4.4/Frija-v1.4.4.zip</url>
-    <changelog>\u2022 Fixed an issue where if firmware paused and resumed after downloading more than 1.9 GB app failed to download complete firmware \n\u2022 Message box added with invite link to Frija Discord server</changelog>
+    <version>2.0.21302.1</version>
+    <url>https://github.com/SlackingVeteran/frija-dev/releases/download/v2.0.21302.1/Frija_v2.0.21302.1.zip</url>
+    <changelog>\u2022 New Fluent UI with Light/Dark and System theme support \n\u2022 Independent of Samsung dll libraries \n\u2022 Independent of Samsung dll libraries \n\u2022 Improved performance, better error/exception logging</changelog>
     <mandatory>true</mandatory>
 </item>
