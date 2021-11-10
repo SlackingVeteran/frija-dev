@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.0.21302.1</version>
-    <url>https://github.com/SlackingVeteran/frija-dev/releases/download/v2.0.21302.1/Frija_v2.0.21302.1.zip</url>
-    <changelog>\u2022 New Fluent UI with Light/Dark and System theme support \n\u2022 Independent of Samsung dll libraries \n\u2022 Independent of Samsung dll libraries \n\u2022 Improved performance, better error/exception logging</changelog>
+    <version>2.0.21314.2</version>
+    <url>https://github.com/SlackingVeteran/frija-dev/releases/download/v2.0.21314.2/Frija_v2.0.21314.2.zip</url>
+    <changelog>\u2022 Fixed issue where phone was not automatically detected when it was connected with Auto Mode window open \n\u2022 Properly display current CSC in Auto Mode \n\u2022 Fixed an issue where proper image of connected phone was not displayed in auto mode \n\u2022 Fixed a bug where Frija crashed if user tried to open one of the option from 3 vertical dot option menu when some dialog window was already open \n\u2022 Some minor UI bugs and fixes</changelog>
     <mandatory>true</mandatory>
 </item>
