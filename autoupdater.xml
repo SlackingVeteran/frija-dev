@@ -2,6 +2,6 @@
 <item>
     <version>2.0.21349.1</version>
     <url>https://github.com/SlackingVeteran/frija-dev/releases/download/v2.0.21349.1/Frija_v2.0.21349.1.zip</url>
-    <changelog>\u2022 Added legacy manual mode which lets user enter all the firmware details instead of Frija retrieving the info on its own \n\u2022 Bundled README.txt with zip file which tells user to install x86 version of .Net Core v3.1.21 even if user has x64 system \n\u2022 Fixed some bugs found since last beta \n\u2022 Fixed some bugs that has potential to be triggered in very rare cases</changelog>
+    <changelog>\u2022 Added legacy manual mode which lets user enter all the firmware details instead of Frija retrieving the info on its own \n\u2022 Bundled README.txt with zip file which tells user to install x86 version of .NET Core v3.1.21 even if user has x64 system \n\u2022 Fixed some bugs found since last beta \n\u2022 Fixed some bugs that has potential to be triggered in very rare cases</changelog>
     <mandatory>true</mandatory>
 </item>
