@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.0.21314.3</version>
-    <url>https://github.com/SlackingVeteran/frija-dev/releases/download/v2.0.21314.3/Frija_v2.0.21314.3.zip</url>
-    <changelog>\u2022 Fixed issue where phone was not automatically detected when it was connected with Auto Mode window open \n\u2022 Properly display current CSC in Auto Mode \n\u2022 Fixed an issue where proper image of connected phone was not displayed in auto mode \n\u2022 Fixed a bug where Frija crashed if user tried to open one of the option from 3 vertical dot option menu when some dialog window was already open \n\u2022 Some minor UI bugs and fixes</changelog>
+    <version>2.0.21349.1</version>
+    <url>https://github.com/SlackingVeteran/frija-dev/releases/download/v2.0.21349.1/Frija_v2.0.21349.1.zip</url>
+    <changelog>\u2022 Added legacy manual mode which lets user enter all the firmware details instead of Frija retrieving the info on its own \n\u2022 Fixed some bugs found since last beta \n\u2022 Fixed some potential bugs that has potential to be triggered in very rare cases</changelog>
     <mandatory>true</mandatory>
 </item>
