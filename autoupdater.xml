@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>2.0.22044.1</version>
-    <url>https://github.com/SlackingVeteran/frija-dev/releases/download/v2.0.22044.1/Frija_v2.0.22044.1.zip</url>
-    <changelog>\u2022 Fixed an issue on previous RC3 build where Frija was unable to properly check if drivers are installed on PC\n\u2022 Frija now uses Samsung drivers instead of ADB to pull device info needed to find the firmware in Auto mode.\n\u2022 Fixed an issue where Chinese users were unable to use the App.\n\u2022 Fixed an issue where Frija was unable to delete enc2|enc4 files after successfully decrypting them .\n\u2022 Added a dialog box notifying users that firmware has been successfully downloaded.\n\u2022 Added a proxy to prevent unauthorized access to Frija database.\n\u2022 Mica effect on Windows 11 for both dark and light theme.\n\u2022 Added many small UI improvements</changelog>
+    <version>2.0.23262.2</version>
+    <url>https://github.com/SlackingVeteran/frija-dev/releases/download/v2.0.23262.2/Frija_v2.0.23262.2.zip</url>
+    <changelog>\u2022 Fixed an issue where it could not communicate with backend at often times</changelog>
     <mandatory>true</mandatory>
 </item>
